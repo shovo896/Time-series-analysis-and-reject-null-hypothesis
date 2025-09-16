@@ -1,0 +1,1 @@
+Null analysis is the process of identifying, quantifying, and handling missing data in a dataset. It helps data scientists understand how much of their data is incomplete and guides decisions on whether to clean, impute, or drop missing values.
